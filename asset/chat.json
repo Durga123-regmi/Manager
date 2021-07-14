@@ -1,0 +1,215 @@
+[
+
+  {
+
+
+
+  "id":"002",
+  "participants":[
+    "Durga", "Swadesh Nepali"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"Hello, prepare for this!"
+    
+
+    
+  }
+
+
+
+
+},
+{
+
+
+
+  "id":"003",
+  "participants":[
+     "Durga", "Swadesh Nepali","Manish Paudel", "Binod"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"Yes,thats really matters"
+   
+
+    
+  }
+
+
+
+
+},
+{
+
+
+
+  "id":"004",
+  "participants":[
+     "Durga", "Manish Paudel"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"Where do we go now?"
+    
+
+    
+  }
+
+
+
+
+},
+{
+
+
+
+  "id":"005",
+  "participants":[
+     "Durga", "Binod"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"well,that may work fine"
+  
+
+    
+  }
+
+
+
+
+},
+{
+
+
+
+  "id":"002",
+  "participants":[
+      "Durga", "Swadesh Nepali"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"this is quite intresting"
+  }
+
+
+
+
+},
+{
+
+
+
+  "id":"003",
+  "participants":[
+   "Durga", "Swadesh Nepali"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"oho,,,,MMMM"
+    
+
+    
+  }
+
+
+
+
+},
+{
+
+
+
+  "id":"004",
+  "participants":[
+     "Durga", "Swadesh Nepali"
+  ],
+  "color":"",
+  "photo":"",
+  "bookmarkedMsgs":[{
+    "id":"002",
+    "pinnedby":"",
+    
+    "time":""
+    
+  }
+
+  ],
+  "lastMsg":{
+    "message":"ha ha ha nope!"
+
+
+    
+  }
+
+
+
+
+}
+
+
+]
+
+
+

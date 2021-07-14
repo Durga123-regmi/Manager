@@ -1,0 +1,129 @@
+
+
+[
+
+  {
+    "id":"100",
+    "to":"002",
+    "from":"001",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"101",
+    "to":"002",
+    "from":"003",
+   "messageType" :"text",
+    "messageStatus":"unseen",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"102",
+    "to":"002",
+    "from":"004",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"103",
+    "to":"002",
+    "from":"002",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"104",
+    "to":"002",
+    "from":"005",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"105",
+    "to":"002",
+    "from":"006",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"002",
+    "to":"002",
+    "from":"007",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    },
+     {
+    "id":"002",
+    "to":"002",
+    "from":"004",
+   "messageType" :"text",
+    "messageStatus":"sent",
+    "isOnline":true,
+    "replyTo":"002",
+    "time":{
+    "sentTime":"2021-06-28 10:56:14.499345",
+
+    "seenTime":"2021-06-28 10:57:14.499345"},
+    "message":"Thats look cool"
+    }
+
+
+
+
+
+
+
+
+
+
+]
+
+
